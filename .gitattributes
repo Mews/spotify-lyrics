@@ -1,1 +1,2 @@
-_internal/* linguist-documentation
+_internal/* linguist-vendored
+build/** linguist-vendored
