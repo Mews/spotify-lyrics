@@ -8,9 +8,17 @@
 
 ## Usage
 
-To use the app, simply navigate to [releases](https://github.com/Mews/spotify-lyrics/releases), download the latest stable release and open the `spotify lyrics.exe` file!
+To use the app, simply download the files in the repository and open the `spotify lyrics.exe` file!
 
-*If you clone the repo*, you can also just run the `main.py` file.
+Alternatively, you can also just run the `main.py` file.
+
+You can then also change the app's theme by editing the `theme` variable in the `settings.ini` file to [one of the available themes](https://ttkbootstrap.readthedocs.io/en/latest/themes/). For example:
+
+
+    [theme]
+    ; available themes: https://ttkbootstrap.readthedocs.io/en/latest/themes/
+    theme = litera
+
 
 If you have any issues using the app, you can also [open an issue](https://github.com/Mews/spotify-lyrics/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)
 ## Libraries used
