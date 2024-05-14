@@ -3,12 +3,13 @@
 
 ![Logo](https://i.ibb.co/VYfTNT5/banner-transparent.png)
 
-#### An app that connects to your spotify to show you the lyrics to the song you're listening to live.
-#### No premium required!
+**An app that connects to your spotify to show you the lyrics to the song you're listening to live.**
+
+**No premium required!**
 
 ## Usage
 
-To use the app, simply navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases), download the latest stable release and open the `spotify lyrics.exe` file!
+To use the app, simply navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases), download the latest release and open the `spotify lyrics.exe` file!
 
 *Alternatively, if you clone the repository, you can also just run the `main.py` file.*
 
