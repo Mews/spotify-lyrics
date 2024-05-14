@@ -11,17 +11,20 @@
 
 To use the app, simply navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases), download the latest release and open the `spotify lyrics.exe` file!
 
-*Alternatively, if you clone the repository, you can also just run the `main.py` file.*
+Some antivirus programs might flag the app as a virus. This is not true, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.
 
-You can then also change the app's theme by editing the `theme` variable in the `settings.ini` file to [one of the available themes](https://ttkbootstrap.readthedocs.io/en/latest/themes/). For example:
+---
+
+You can then also change the app's theme by editing the `theme` variable in the `settings.ini` file to [one of the available themes](https://ttkbootstrap.readthedocs.io/en/latest/themes/). For example, to use the "solar" dark theme:
 
 
     [theme]
     ; available themes: https://ttkbootstrap.readthedocs.io/en/latest/themes/
-    theme = litera
+    theme = solar
 
 
-If you have any issues using the app, you can also [open an issue](https://github.com/Mews/spotify-lyrics/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)
+**If you have any issues using the app, you can also [open an issue](https://github.com/Mews/spotify-lyrics/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)**
+
 ## Libraries used
 [spotipy](https://github.com/spotipy-dev/spotipy) - To use the Spotify WebAPI
 
