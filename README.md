@@ -11,7 +11,7 @@
 
 To use the app, simply navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases), download the latest release and open the `spotify lyrics.exe` file!
 
-Some antivirus programs might flag the app as a virus. This is not true, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.
+Some antivirus programs might flag the app as a virus. This is only because the app is not signed, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.
 
 ---
 
