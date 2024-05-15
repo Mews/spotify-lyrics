@@ -1,3 +1,4 @@
+import re
 from datetime import timedelta
 import syncedlyrics
 
@@ -7,33 +8,68 @@ def get_timestamp_lyric(lyrics, timestamp:timedelta):
             return (i-1, lyrics[i-1][1])
     return (i-1, "")
 
-def parse_lrc(lrc:str):
-    if lrc == None:
-        return None
+def str_to_timestamp(timestamp_str):
+    timestamp_str = timestamp_str.replace("[","").replace("]","").replace(".", ":")
+
+    minutes, seconds, centiseconds = map(int, timestamp_str.split(':'))
+
+    timestamp = timedelta(minutes=minutes, seconds=seconds, milliseconds=centiseconds*10)
+
+    return timestamp
+
+def parse_lrc(lrc_string:str):
+    TIMESTAMP_REGEX = "\\[[^\\]]*\\]"
+    pattern = re.compile(TIMESTAMP_REGEX)
+
+    parsed_lyrcs = []
 
     try:
-        lyrics = [(timedelta(milliseconds=0), " ")]
+        if "\n" in lrc_string:
+            # Separate lines format
 
-        for line in lrc.split("\n"):
-            line = line.split(" ", maxsplit=1)
+            for line in lrc_string.split("\n"):
+                match_ = pattern.search(line)
 
-            if line == [""] or line == [] or not len(line) == 2:
-                continue
+                if match_ == None:
+                    continue
+                
+                timestamp_str = match_.group()
+
+                timestamp = str_to_timestamp(timestamp_str)
+
+                lyric = line.replace(match_.group(), "").strip()
+
+                parsed_lyrcs.append((timestamp, lyric))
+        
+        else:
+            # No line break format
             
-            time_str = line[0]
-            lyric = line[1]
+            matches = pattern.finditer(lrc_string)
 
-            time_str = time_str.replace("[", "").replace("]", "").replace(".", ":")
+            str_indexes = []
+            timestamps = [timedelta(milliseconds=0)]
 
-            minutes, seconds, centiseconds = map(int, time_str.split(':'))
+            for match_ in matches:
+                str_indexes.append(match_.span()[0])
 
-            lyrics.append((timedelta(minutes=minutes, seconds=seconds, milliseconds=centiseconds*10), lyric))
+                timestamp_str = match_.group()
+                timestamps.append(str_to_timestamp(timestamp_str))
 
-        return lyrics
+            c_index = 0
+
+            for i, index in enumerate(str_indexes):
+                lyric = lrc_string[c_index:index].strip()
+                timestamp = timestamps[i]
+
+                c_index = index + 10
+
+                parsed_lyrcs.append((timestamp, lyric))
 
     except Exception as exc:
         print(exc)
         return None
+        
+    return (None if parsed_lyrcs == [] else parsed_lyrcs)
 
 def fetch_lrc(song_name:str, artist:str, allow_plain_format=False):
     search_term = song_name+" "
