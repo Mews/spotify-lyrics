@@ -21,7 +21,7 @@ missing module named _posixsubprocess - imported by subprocess (conditional), mu
 missing module named fcntl - imported by subprocess (optional)
 missing module named urllib.urlopen - imported by urllib (delayed, optional), lxml.html (delayed, optional)
 missing module named urllib.urlencode - imported by urllib (delayed, optional), lxml.html (delayed, optional)
-missing module named posix - imported by posixpath (optional), shutil (conditional), importlib._bootstrap_external (conditional), os (conditional, optional)
+missing module named posix - imported by os (conditional, optional), shutil (conditional), importlib._bootstrap_external (conditional), posixpath (optional)
 missing module named resource - imported by posix (top-level)
 missing module named _manylinux - imported by packaging._manylinux (delayed, optional), setuptools._vendor.packaging._manylinux (delayed, optional), pkg_resources._vendor.packaging._manylinux (delayed, optional)
 missing module named jnius - imported by pkg_resources._vendor.platformdirs.android (delayed, optional)

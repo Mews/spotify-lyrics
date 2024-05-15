@@ -1,0 +1,3874 @@
+('C:\\Users\\Public\\codg\\spotify-lyrics\\build\\spotify-lyrics-debug\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageDraw.py',
+   'PYMODULE'),
+  ('PIL.ImageDraw2',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageDraw2.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageFont',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageFont.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImagePath',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImagePath.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_markupbase',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_markupbase.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bs4',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\__init__.py',
+   'PYMODULE'),
+  ('bs4.builder._html5lib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_html5lib.py',
+   'PYMODULE'),
+  ('bs4.builder._htmlparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_htmlparser.py',
+   'PYMODULE'),
+  ('bs4.builder._lxml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\builder\\_lxml.py',
+   'PYMODULE'),
+  ('bs4.css',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\css.py',
+   'PYMODULE'),
+  ('bs4.dammit',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\dammit.py',
+   'PYMODULE'),
+  ('bs4.element',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\element.py',
+   'PYMODULE'),
+  ('bs4.formatter',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\bs4\\formatter.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('cffi',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\__init__.py',
+   'PYMODULE'),
+  ('cffi._imp_emulation',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\_imp_emulation.py',
+   'PYMODULE'),
+  ('cffi._shimmed_dist_utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\_shimmed_dist_utils.py',
+   'PYMODULE'),
+  ('cffi.api',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\api.py',
+   'PYMODULE'),
+  ('cffi.cffi_opcode',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\cffi_opcode.py',
+   'PYMODULE'),
+  ('cffi.commontypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\commontypes.py',
+   'PYMODULE'),
+  ('cffi.cparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\cparser.py',
+   'PYMODULE'),
+  ('cffi.error',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\error.py',
+   'PYMODULE'),
+  ('cffi.ffiplatform',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\ffiplatform.py',
+   'PYMODULE'),
+  ('cffi.lock',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\lock.py',
+   'PYMODULE'),
+  ('cffi.model',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\model.py',
+   'PYMODULE'),
+  ('cffi.pkgconfig',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\pkgconfig.py',
+   'PYMODULE'),
+  ('cffi.recompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\recompiler.py',
+   'PYMODULE'),
+  ('cffi.vengine_cpy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\vengine_cpy.py',
+   'PYMODULE'),
+  ('cffi.vengine_gen',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\vengine_gen.py',
+   'PYMODULE'),
+  ('cffi.verifier',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cffi\\verifier.py',
+   'PYMODULE'),
+  ('cgi',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cgi.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gui', 'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\gui.py', 'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('html.parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\html\\parser.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib_metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._py39compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('loadfont',
+   'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\loadfont.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lxml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.ElementInclude',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\ElementInclude.py',
+   'PYMODULE'),
+  ('lxml.cssselect',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\cssselect.py',
+   'PYMODULE'),
+  ('lxml.doctestcompare',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\doctestcompare.py',
+   'PYMODULE'),
+  ('lxml.html',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\__init__.py',
+   'PYMODULE'),
+  ('lxml.html.ElementSoup',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\ElementSoup.py',
+   'PYMODULE'),
+  ('lxml.html._diffcommand',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_diffcommand.py',
+   'PYMODULE'),
+  ('lxml.html._html5builder',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_html5builder.py',
+   'PYMODULE'),
+  ('lxml.html._setmixin',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\_setmixin.py',
+   'PYMODULE'),
+  ('lxml.html.builder',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\builder.py',
+   'PYMODULE'),
+  ('lxml.html.defs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\defs.py',
+   'PYMODULE'),
+  ('lxml.html.formfill',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\formfill.py',
+   'PYMODULE'),
+  ('lxml.html.html5parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\html5parser.py',
+   'PYMODULE'),
+  ('lxml.html.soupparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\soupparser.py',
+   'PYMODULE'),
+  ('lxml.html.usedoctest',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\html\\usedoctest.py',
+   'PYMODULE'),
+  ('lxml.includes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.extlibs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\extlibs\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libexslt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libexslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libxml\\__init__.py',
+   'PYMODULE'),
+  ('lxml.includes.libxslt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\includes\\libxslt\\__init__.py',
+   'PYMODULE'),
+  ('lxml.isoschematron',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\isoschematron\\__init__.py',
+   'PYMODULE'),
+  ('lxml.pyclasslookup',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\pyclasslookup.py',
+   'PYMODULE'),
+  ('lxml.usedoctest',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\lxml\\usedoctest.py',
+   'PYMODULE'),
+  ('lyrics',
+   'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\lyrics.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('optparse',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\optparse.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._elffile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._tokenizer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.__main__',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\__main__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.android',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\android.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.api',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\api.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.macos',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\macos.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.unix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\unix.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.platformdirs.windows',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\platformdirs\\windows.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.typing_extensions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pycparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ast_transforms',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\ast_transforms.py',
+   'PYMODULE'),
+  ('pycparser.c_ast',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\c_ast.py',
+   'PYMODULE'),
+  ('pycparser.c_lexer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\c_lexer.py',
+   'PYMODULE'),
+  ('pycparser.c_parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\c_parser.py',
+   'PYMODULE'),
+  ('pycparser.lextab',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\lextab.py',
+   'PYMODULE'),
+  ('pycparser.ply',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\ply\\__init__.py',
+   'PYMODULE'),
+  ('pycparser.ply.lex',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\ply\\lex.py',
+   'PYMODULE'),
+  ('pycparser.ply.yacc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\ply\\yacc.py',
+   'PYMODULE'),
+  ('pycparser.plyparser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\plyparser.py',
+   'PYMODULE'),
+  ('pycparser.yacctab',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\pycparser\\yacctab.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\random.py',
+   'PYMODULE'),
+  ('rapidfuzz',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\__init__.py',
+   'PYMODULE'),
+  ('rapidfuzz._common_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\_common_py.py',
+   'PYMODULE'),
+  ('rapidfuzz._feature_detector',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\_feature_detector.py',
+   'PYMODULE'),
+  ('rapidfuzz._utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\_utils.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\__init__.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.DamerauLevenshtein',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\DamerauLevenshtein.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.DamerauLevenshtein_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\DamerauLevenshtein_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Hamming',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Hamming.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Hamming_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Hamming_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Indel',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Indel.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Indel_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Indel_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Jaro',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Jaro.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.JaroWinkler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\JaroWinkler.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.JaroWinkler_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\JaroWinkler_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Jaro_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Jaro_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.LCSseq',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\LCSseq.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.LCSseq_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\LCSseq_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Levenshtein',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Levenshtein.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Levenshtein_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Levenshtein_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.OSA',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\OSA.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.OSA_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\OSA_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Postfix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Postfix.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Postfix_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Postfix_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Prefix',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Prefix.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.Prefix_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\Prefix_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance._initialize',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\_initialize.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance._initialize_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\_initialize_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.distance.metrics_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\distance\\metrics_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.fuzz',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\fuzz.py',
+   'PYMODULE'),
+  ('rapidfuzz.fuzz_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\fuzz_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.process',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\process.py',
+   'PYMODULE'),
+  ('rapidfuzz.process_cpp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\process_cpp.py',
+   'PYMODULE'),
+  ('rapidfuzz.process_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\process_py.py',
+   'PYMODULE'),
+  ('rapidfuzz.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\utils.py',
+   'PYMODULE'),
+  ('rapidfuzz.utils_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\rapidfuzz\\utils_py.py',
+   'PYMODULE'),
+  ('redis',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\__init__.py',
+   'PYMODULE'),
+  ('redis._parsers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\__init__.py',
+   'PYMODULE'),
+  ('redis._parsers.base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\base.py',
+   'PYMODULE'),
+  ('redis._parsers.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\commands.py',
+   'PYMODULE'),
+  ('redis._parsers.encoders',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\encoders.py',
+   'PYMODULE'),
+  ('redis._parsers.helpers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\helpers.py',
+   'PYMODULE'),
+  ('redis._parsers.hiredis',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\hiredis.py',
+   'PYMODULE'),
+  ('redis._parsers.resp2',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\resp2.py',
+   'PYMODULE'),
+  ('redis._parsers.resp3',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\resp3.py',
+   'PYMODULE'),
+  ('redis._parsers.socket',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\_parsers\\socket.py',
+   'PYMODULE'),
+  ('redis.asyncio',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('redis.asyncio.client',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\client.py',
+   'PYMODULE'),
+  ('redis.asyncio.cluster',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\cluster.py',
+   'PYMODULE'),
+  ('redis.asyncio.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\connection.py',
+   'PYMODULE'),
+  ('redis.asyncio.lock',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\lock.py',
+   'PYMODULE'),
+  ('redis.asyncio.retry',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\retry.py',
+   'PYMODULE'),
+  ('redis.asyncio.sentinel',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\sentinel.py',
+   'PYMODULE'),
+  ('redis.asyncio.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\asyncio\\utils.py',
+   'PYMODULE'),
+  ('redis.backoff',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\backoff.py',
+   'PYMODULE'),
+  ('redis.client',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\client.py',
+   'PYMODULE'),
+  ('redis.cluster',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\cluster.py',
+   'PYMODULE'),
+  ('redis.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.bf',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\bf\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.bf.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\bf\\commands.py',
+   'PYMODULE'),
+  ('redis.commands.bf.info',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\bf\\info.py',
+   'PYMODULE'),
+  ('redis.commands.cluster',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\cluster.py',
+   'PYMODULE'),
+  ('redis.commands.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\core.py',
+   'PYMODULE'),
+  ('redis.commands.graph',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.graph.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\commands.py',
+   'PYMODULE'),
+  ('redis.commands.graph.edge',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\edge.py',
+   'PYMODULE'),
+  ('redis.commands.graph.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\exceptions.py',
+   'PYMODULE'),
+  ('redis.commands.graph.execution_plan',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\execution_plan.py',
+   'PYMODULE'),
+  ('redis.commands.graph.node',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\node.py',
+   'PYMODULE'),
+  ('redis.commands.graph.path',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\path.py',
+   'PYMODULE'),
+  ('redis.commands.graph.query_result',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\graph\\query_result.py',
+   'PYMODULE'),
+  ('redis.commands.helpers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\helpers.py',
+   'PYMODULE'),
+  ('redis.commands.json',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\json\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.json._util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\json\\_util.py',
+   'PYMODULE'),
+  ('redis.commands.json.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\json\\commands.py',
+   'PYMODULE'),
+  ('redis.commands.json.decoders',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\json\\decoders.py',
+   'PYMODULE'),
+  ('redis.commands.json.path',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\json\\path.py',
+   'PYMODULE'),
+  ('redis.commands.redismodules',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\redismodules.py',
+   'PYMODULE'),
+  ('redis.commands.search',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.search._util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\_util.py',
+   'PYMODULE'),
+  ('redis.commands.search.aggregation',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\aggregation.py',
+   'PYMODULE'),
+  ('redis.commands.search.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\commands.py',
+   'PYMODULE'),
+  ('redis.commands.search.document',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\document.py',
+   'PYMODULE'),
+  ('redis.commands.search.query',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\query.py',
+   'PYMODULE'),
+  ('redis.commands.search.result',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\result.py',
+   'PYMODULE'),
+  ('redis.commands.search.suggestion',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\search\\suggestion.py',
+   'PYMODULE'),
+  ('redis.commands.sentinel',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\sentinel.py',
+   'PYMODULE'),
+  ('redis.commands.timeseries',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\timeseries\\__init__.py',
+   'PYMODULE'),
+  ('redis.commands.timeseries.commands',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\timeseries\\commands.py',
+   'PYMODULE'),
+  ('redis.commands.timeseries.info',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\timeseries\\info.py',
+   'PYMODULE'),
+  ('redis.commands.timeseries.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\commands\\timeseries\\utils.py',
+   'PYMODULE'),
+  ('redis.compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\compat.py',
+   'PYMODULE'),
+  ('redis.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\connection.py',
+   'PYMODULE'),
+  ('redis.crc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\crc.py',
+   'PYMODULE'),
+  ('redis.credentials',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\credentials.py',
+   'PYMODULE'),
+  ('redis.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\exceptions.py',
+   'PYMODULE'),
+  ('redis.lock',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\lock.py',
+   'PYMODULE'),
+  ('redis.ocsp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\ocsp.py',
+   'PYMODULE'),
+  ('redis.retry',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\retry.py',
+   'PYMODULE'),
+  ('redis.sentinel',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\sentinel.py',
+   'PYMODULE'),
+  ('redis.typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\typing.py',
+   'PYMODULE'),
+  ('redis.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\redis\\utils.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('settings',
+   'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\settings.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._collections',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._distutils._functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._macos_compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_macos_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.bcppcompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\bcppcompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command._framework_compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\_framework_compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_dumb',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_dumb.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist_rpm',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist_rpm.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_clib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_clib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_py',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_py.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_scripts',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.check',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\check.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.clean',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\clean.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.config',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_data',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_data.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_egg_info',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_egg_info.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_headers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_headers.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_lib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_lib.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.install_scripts',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\install_scripts.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.py37compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\py37compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.register',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\register.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.upload',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\command\\upload.py',
+   'PYMODULE'),
+  ('setuptools._distutils.config',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\config.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cygwinccompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\cygwinccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dep_util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dep_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvc9compiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\msvc9compiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.msvccompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py38compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\py38compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.py39compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\py39compat.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.unixccompiler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\unixccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._collections',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._meta',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._py39compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_py39compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_metadata._text',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._adapters',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._common',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources._legacy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.abc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.readers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.importlib_resources.simple',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.ordered_set',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.metadata',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.typing_extensions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
+   'PYMODULE'),
+  ('setuptools._vendor.zipp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.extern',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\extern\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('socks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\socks.py',
+   'PYMODULE'),
+  ('song', 'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\song.py', 'PYMODULE'),
+  ('soupsieve',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__init__.py',
+   'PYMODULE'),
+  ('soupsieve.__meta__',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\__meta__.py',
+   'PYMODULE'),
+  ('soupsieve.css_match',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_match.py',
+   'PYMODULE'),
+  ('soupsieve.css_parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_parser.py',
+   'PYMODULE'),
+  ('soupsieve.css_types',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\css_types.py',
+   'PYMODULE'),
+  ('soupsieve.pretty',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\pretty.py',
+   'PYMODULE'),
+  ('soupsieve.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\soupsieve\\util.py',
+   'PYMODULE'),
+  ('spotify_client',
+   'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\spotify_client.py',
+   'PYMODULE'),
+  ('spotipy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\__init__.py',
+   'PYMODULE'),
+  ('spotipy.cache_handler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\cache_handler.py',
+   'PYMODULE'),
+  ('spotipy.client',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\client.py',
+   'PYMODULE'),
+  ('spotipy.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\exceptions.py',
+   'PYMODULE'),
+  ('spotipy.oauth2',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\oauth2.py',
+   'PYMODULE'),
+  ('spotipy.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\spotipy\\util.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('syncedlyrics',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\__init__.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\__init__.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.base',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\base.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.deezer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\deezer.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.genius',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\genius.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.lrclib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\lrclib.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.lyricsify',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\lyricsify.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.megalobiz',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\megalobiz.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.musixmatch',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\musixmatch.py',
+   'PYMODULE'),
+  ('syncedlyrics.providers.netease',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\providers\\netease.py',
+   'PYMODULE'),
+  ('syncedlyrics.utils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\syncedlyrics\\utils.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\threading.py',
+   'PYMODULE'),
+  ('tkinter',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\__init__.py',
+   'PYMODULE'),
+  ('tkinter.constants',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\constants.py',
+   'PYMODULE'),
+  ('tkinter.font',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\font.py',
+   'PYMODULE'),
+  ('tkinter.scrolledtext',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\scrolledtext.py',
+   'PYMODULE'),
+  ('tkinter.ttk',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tkinter\\ttk.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('ttkbootstrap',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.colorutils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\colorutils.py',
+   'PYMODULE'),
+  ('ttkbootstrap.constants',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\constants.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colorchooser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\colorchooser.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.colordropper',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\colordropper.py',
+   'PYMODULE'),
+  ('ttkbootstrap.dialogs.dialogs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\dialogs\\dialogs.py',
+   'PYMODULE'),
+  ('ttkbootstrap.icons',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\icons.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgcat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\msgcat.py',
+   'PYMODULE'),
+  ('ttkbootstrap.localization.msgs',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\localization\\msgs.py',
+   'PYMODULE'),
+  ('ttkbootstrap.publisher',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\publisher.py',
+   'PYMODULE'),
+  ('ttkbootstrap.scrolled',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\scrolled.py',
+   'PYMODULE'),
+  ('ttkbootstrap.style',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\style.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\__init__.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.standard',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\standard.py',
+   'PYMODULE'),
+  ('ttkbootstrap.themes.user',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\themes\\user.py',
+   'PYMODULE'),
+  ('ttkbootstrap.tooltip',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\tooltip.py',
+   'PYMODULE'),
+  ('ttkbootstrap.utility',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\utility.py',
+   'PYMODULE'),
+  ('ttkbootstrap.validation',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\validation.py',
+   'PYMODULE'),
+  ('ttkbootstrap.widgets',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\widgets.py',
+   'PYMODULE'),
+  ('ttkbootstrap.window',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\ttkbootstrap\\window.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\typing.py',
+   'PYMODULE'),
+  ('typing_extensions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\typing_extensions.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.mock',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\mock.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('win32con',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('wraplabel',
+   'C:\\Users\\Public\\codg\\spotify-lyrics\\src\\wraplabel.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('yaml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\__init__.py',
+   'PYMODULE'),
+  ('yaml.composer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\composer.py',
+   'PYMODULE'),
+  ('yaml.constructor',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\constructor.py',
+   'PYMODULE'),
+  ('yaml.cyaml',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\cyaml.py',
+   'PYMODULE'),
+  ('yaml.dumper',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\dumper.py',
+   'PYMODULE'),
+  ('yaml.emitter',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\emitter.py',
+   'PYMODULE'),
+  ('yaml.error',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\error.py',
+   'PYMODULE'),
+  ('yaml.events',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\events.py',
+   'PYMODULE'),
+  ('yaml.loader',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\loader.py',
+   'PYMODULE'),
+  ('yaml.nodes',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\nodes.py',
+   'PYMODULE'),
+  ('yaml.parser',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\parser.py',
+   'PYMODULE'),
+  ('yaml.reader',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\reader.py',
+   'PYMODULE'),
+  ('yaml.representer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\representer.py',
+   'PYMODULE'),
+  ('yaml.resolver',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\resolver.py',
+   'PYMODULE'),
+  ('yaml.scanner',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\scanner.py',
+   'PYMODULE'),
+  ('yaml.serializer',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\serializer.py',
+   'PYMODULE'),
+  ('yaml.tokens',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\yaml\\tokens.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\zipimport.py',
+   'PYMODULE'),
+  ('zipp',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zipp\\__init__.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zipp\\glob.py',
+   'PYMODULE'),
+  ('zipp.py310compat',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zipp\\py310compat.py',
+   'PYMODULE'),
+  ('zstandard',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zstandard\\__init__.py',
+   'PYMODULE'),
+  ('zstandard.backend_cffi',
+   'C:\\Users\\Tiago '
+   'Charrão\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\zstandard\\backend_cffi.py',
+   'PYMODULE')])
