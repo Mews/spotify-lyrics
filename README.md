@@ -8,10 +8,19 @@
 **No premium required!**
 
 ## Usage
+***To be able to use the app, you will first need to provide a client id to connect to the spotify api.***\
+***You can find how to get yours [here](TUTORIAL.md).***
 
-To use the app, simply navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases), download the latest release and open the `spotify lyrics.exe` file!
+After getting your client id, navigate to the [releases page](https://github.com/Mews/spotify-lyrics/releases) and download the latest release.\
+Then, open the `settings.ini` file and write your client id as such
+```
+[spotify]
+client_id = <your client id>
+redirect_uri = http://localhost:8888/callback
+```
+After that, just open the `spotify lyrics.exe` file!
 
-Some antivirus programs might flag the app as a virus. This is only because the app is not signed, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.
+*Some antivirus programs might flag the app as a virus. This is only because the app is not signed, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.*
 
 ---
 
