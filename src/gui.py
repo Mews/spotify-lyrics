@@ -269,8 +269,8 @@ class SongProgressBar(ttk.Frame):
         self.length_lbl.pack(side=LEFT, padx=8)
     
     def update_progress(self, progress:timedelta, length:timedelta):
-        progress_seconds = progress.total_seconds()
         length_seconds = length.total_seconds()
+        progress_seconds = min(progress.total_seconds(), length_seconds)
 
         value = (progress_seconds/length_seconds)*100
         self.progress_bar.config(value=value)
