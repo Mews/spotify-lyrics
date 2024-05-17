@@ -6,3 +6,4 @@ dist
 _internal
 *.spec
 *.exe
+*.rar
