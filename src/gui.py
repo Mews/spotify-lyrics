@@ -5,6 +5,7 @@ from ttkbootstrap.scrolled import ScrolledFrame
 from datetime import timedelta
 from PIL import Image, ImageTk
 from random import choice
+from threading import Thread
 
 from wraplabel import WrapLabel
 from song import Song, NoSongFound
@@ -45,6 +46,9 @@ class MainUi(ttk.Window):
         
         self.after(1, self.song_changed)
 
+        #Start the update_current_song loop in a separate thread
+        Thread(target=self.update_current_song, daemon=True).start()
+
         self.after(10, self.loop)
 
 
@@ -66,17 +70,19 @@ class MainUi(ttk.Window):
 
         self.lyrics_menu.update_lyric_labels(lyrics=self.lyrics)
 
+    def update_current_song(self):
+        while True:
+            try:
+                previous_song_id = self.current_song.id
+                self.current_song = Song(raw_data=self.spotify.currently_playing())
+
+                if not self.current_song.id == previous_song_id:
+                    self.song_changed()
+
+            except Exception as exc:
+                print(exc)
 
     def loop(self):
-        previous_song_id = self.current_song.id
-
-        try:
-            self.current_song = Song(raw_data=self.spotify.currently_playing())
-        except Exception as exc:
-            print(exc)
-
-        if not self.current_song.id == previous_song_id:
-            self.song_changed()
 
         #Update progress bar
         self.bottom_menu.song_progess_bar.update_progress(self.current_song.progress, self.current_song.length)
