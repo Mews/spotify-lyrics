@@ -42,6 +42,8 @@ class MainUi(ttk.Window):
 
         self.previous_lyric_index = None
 
+        self.lyrics_loaded = False
+
         self.bottom_menu.song_label.update_song(self.current_song)
         
         self.after(1, self.song_changed)
@@ -53,6 +55,8 @@ class MainUi(ttk.Window):
 
 
     def song_changed(self):
+        self.lyrics_loaded = False
+
         self.previous_lyric_index = None
 
         self.bottom_menu.song_label.update_song(self.current_song)
@@ -69,6 +73,8 @@ class MainUi(ttk.Window):
             self.lyrics = None
 
         self.lyrics_menu.update_lyric_labels(lyrics=self.lyrics)
+
+        self.lyrics_loaded = True
 
     def update_current_song(self):
         while True:
@@ -88,7 +94,7 @@ class MainUi(ttk.Window):
         self.bottom_menu.song_progess_bar.update_progress(self.current_song.progress, self.current_song.length)
 
         #Hightlight the current lyric
-        if not self.lyrics == None:
+        if not self.lyrics == None and self.lyrics_loaded:
             current_lyric = get_timestamp_lyric(lyrics=self.lyrics, timestamp=self.current_song.progress)
             if not current_lyric[0] == self.previous_lyric_index:
                 self.lyrics_menu.highlight_lyric(index=current_lyric[0])
