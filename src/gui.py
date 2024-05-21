@@ -6,6 +6,7 @@ from datetime import timedelta
 from PIL import Image, ImageTk
 from random import choice
 from threading import Thread
+import traceback
 
 from wraplabel import WrapLabel
 from song import Song, NoSongFound
@@ -85,8 +86,8 @@ class MainUi(ttk.Window):
                 if not self.current_song.id == previous_song_id:
                     self.song_changed()
 
-            except Exception as exc:
-                print(exc)
+            except Exception:
+                print(traceback.format_exc())
 
     def loop(self):
 

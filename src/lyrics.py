@@ -1,4 +1,5 @@
 import re
+import traceback
 from datetime import timedelta
 import syncedlyrics
 
@@ -65,8 +66,8 @@ def parse_lrc(lrc_string:str):
 
                 parsed_lyrcs.append((timestamp, lyric))
 
-    except Exception as exc:
-        print(exc)
+    except Exception:
+        print(traceback.format_exc())
         return None
         
     return (None if parsed_lyrcs == [] else parsed_lyrcs)
