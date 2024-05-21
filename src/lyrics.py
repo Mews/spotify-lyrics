@@ -2,6 +2,7 @@ import re
 import traceback
 from datetime import timedelta
 import syncedlyrics
+import settings
 
 def get_timestamp_lyric(lyrics, timestamp:timedelta):
     for i, (lyric_timestamp, lyric) in enumerate(lyrics):
@@ -39,6 +40,11 @@ def parse_lrc(lrc_string:str):
                 timestamp = str_to_timestamp(timestamp_str)
 
                 lyric = line.replace(match_.group(), "").strip()
+
+                #Added feature request by mene
+                #Empty lines in lyrics are replaced by a different character
+                if lyric == "":
+                    lyric = settings.empty_lyric_replacement
 
                 parsed_lyrcs.append((timestamp, lyric))
         
