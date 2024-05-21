@@ -40,7 +40,8 @@ You can then also change the app's theme by editing the `theme` variable in the 
 | 0.1.0   | Initial release                                                  
 | 0.2.0   | Added support for theme and settings editing                           
 | 0.3.0   | Updated lrc parser
-| 0.4.0   | Fixed issue with window stuttering when moving it around
+| 0.4.0     (not usable)   | Fixed issue with window stuttering when moving it around
+| 0.4.1   | Major bug fix
 
 
 ## Libraries used
