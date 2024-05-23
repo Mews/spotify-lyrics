@@ -27,9 +27,9 @@ class MainUi(ttk.Window):
         loadfont("assets/font_bold.otf", private=True)
         loadfont("assets/font_light.otf", private=True)
 
-        self.lyrics_menu = LyricsMenu(master=self, bootstyle=DEFAULT)
-        self.lyrics_menu.pack(side=TOP, fill=BOTH, expand=YES)
-
+        self.top_menu = TopMenu(master=self, bootstyle=DEFAULT)
+        self.top_menu.pack(side=TOP, fill=BOTH, expand=YES)
+        
         self.bottom_menu = BottomMenu(master=self, bootstyle=SECONDARY)
         self.bottom_menu.pack(side=TOP, fill=X)
 
@@ -62,26 +62,41 @@ class MainUi(ttk.Window):
 
         self.bottom_menu.song_label.update_song(self.current_song)
 
-        if self.current_song.type == "ad":
-            self.lyrics = ad_lyrics()
-
-        elif self.current_song.type == "track":
+        if self.current_song.type == "track":
             self.lyrics = fetch_parsed_lyrics(song_name=self.current_song.name,
                                               artist=self.current_song.artists[0],
                                               allow_plain_format=False)
-            
+
+            if self.lyrics == None:
+                with open("assets/notfoundmsgs.txt", "r") as f:
+                    not_found_message = choice(f.readlines()).strip()+"\n"*2
+                
+                self.top_menu.display_message(message=not_found_message)
+
+            else:
+                self.top_menu.update_lyric_labels(lyrics=self.lyrics)
+
+                self.lyrics_loaded = True
+
         elif self.current_song.type == "nosong":
-            self.lyrics = None
+            self.top_menu.display_message(message="Open Spotify to start seeing the lyrics!")
 
-        self.lyrics_menu.update_lyric_labels(lyrics=self.lyrics)
+        
+        elif self.current_song.type == "ad":
+            self.top_menu.display_message(message="A Spotify ad is playing")
 
-        self.lyrics_loaded = True
 
     def update_current_song(self):
         while True:
             try:
                 previous_song_id = self.current_song.id
-                self.current_song = Song(raw_data=self.spotify.currently_playing())
+
+                raw_data = self.spotify.currently_playing()
+
+                if raw_data == None:
+                    self.current_song = NoSongFound()
+                else:
+                    self.current_song = Song(raw_data=raw_data)
 
                 if not self.current_song.id == previous_song_id:
                     self.song_changed()
@@ -95,14 +110,66 @@ class MainUi(ttk.Window):
         self.bottom_menu.song_progess_bar.update_progress(self.current_song.progress, self.current_song.length)
 
         #Hightlight the current lyric
-        if not self.lyrics == None and self.lyrics_loaded:
+        if self.lyrics_loaded:
             current_lyric = get_timestamp_lyric(lyrics=self.lyrics, timestamp=self.current_song.progress)
             if not current_lyric[0] == self.previous_lyric_index:
-                self.lyrics_menu.highlight_lyric(index=current_lyric[0])
+                self.top_menu.lyrics_menu.highlight_lyric(index=current_lyric[0])
                 self.previous_lyric_index = current_lyric[0]
 
         self.after(100, self.loop)
 
+
+class TopMenu(ttk.Frame):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        self.lyrics_menu = LyricsMenu(master=self, bootstyle=DEFAULT)
+        self.messages_menu = MessagesMenu(master=self, bootstyle=DEFAULT)
+
+
+    def update_lyric_labels(self, lyrics):
+        self.messages_menu.pack_forget()
+        self.lyrics_menu.pack(expand=YES, fill=BOTH)
+
+        self.lyrics_menu.update_lyric_labels(lyrics=lyrics)
+
+        self.bind_all("<Control-MouseWheel>", self.lyrics_menu.on_control_scroll)
+    
+
+    def display_message(self, message):
+        self.lyrics_menu.pack_forget()
+        self.messages_menu.pack(expand=YES, fill=BOTH)
+
+        self.messages_menu.display_message(message=message)
+
+        self.bind_all("<Control-MouseWheel>", self.messages_menu.on_control_scroll)
+
+
+class MessagesMenu(ttk.Frame):
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+
+        self.font_size = 35
+
+        self.label = LyricLabel(master=self, index=-1, lyric="", anchor=CENTER, justify=CENTER, bootstyle=DEFAULT, font=(FONT_BOLD, int(self.font_size*1.5)))
+        self.label.pack(side=TOP, fill=BOTH, expand=YES, padx=200)
+    
+    def display_message(self, message):
+        self.label._label.config(text=message)
+
+
+    def on_control_scroll(self, event):
+        delta = event.delta
+        
+        if delta > 0:
+            self.font_size += 2
+        if delta < 0:
+            self.font_size -= 2
+        
+        self.font_size = max(6, self.font_size)
+
+        self.label._label.config(font=(FONT_BOLD, int(self.font_size*1.5)))
+        
 
 class LyricsMenu(ScrolledFrame):
     def __init__(self, *args, **kwargs):
@@ -112,13 +179,6 @@ class LyricsMenu(ScrolledFrame):
         self.highlighted_lyric_index = -1
 
         self.font_size = 35
-        
-
-        self.columnconfigure(0, weight=25, uniform="xyz")
-        self.columnconfigure(1, weight=50, uniform="xyz")
-        self.columnconfigure(2, weight=25, uniform="xyz")
-
-        self.bind_all("<Control-MouseWheel>", self.on_control_scroll)
 
     def update_lyric_labels(self, lyrics):
         #Clear all previous lyric labels
@@ -130,22 +190,11 @@ class LyricsMenu(ScrolledFrame):
         self.lyric_labels.append(self.padding_label)
         self.padding_label.pack(side=TOP, padx=260, fill=BOTH, expand=YES)
 
-        if lyrics == None:
-            with open("assets/notfoundmsgs.txt", "r") as f:
-                not_found_message = choice(f.readlines()).strip()+"\n"*2
-
-            self.no_lyrics_found_label = LyricLabel(master=self, index=-1, lyric=not_found_message, font=(FONT_BOLD, self.font_size), anchor=CENTER, justify=CENTER, bootstyle=LIGHT)
-            self.lyric_labels.append(self.no_lyrics_found_label)
-            self.no_lyrics_found_label.pack(side=TOP, padx=260, fill=BOTH, expand=YES)
-
-            self.highlight_lyric(-1)
-
-        else:
-            #Create and pack all the lyric labels
-            for i, (timestamp, lyric) in enumerate(lyrics):
-                lyric_label = LyricLabel(master=self, index=i, lyric=lyric, font=(FONT_BOLD, self.font_size), anchor=CENTER, justify=CENTER, bootstyle=LIGHT)
-                self.lyric_labels.append(lyric_label)
-                lyric_label.pack(side=TOP, padx=260, fill=BOTH, expand=YES)
+        #Create and pack all the lyric labels
+        for i, (timestamp, lyric) in enumerate(lyrics):
+            lyric_label = LyricLabel(master=self, index=i, lyric=lyric, font=(FONT_BOLD, self.font_size), anchor=CENTER, justify=CENTER, bootstyle=LIGHT)
+            self.lyric_labels.append(lyric_label)
+            lyric_label.pack(side=TOP, padx=260, fill=BOTH, expand=YES)
 
 
     def highlight_lyric(self, index):
@@ -158,6 +207,7 @@ class LyricsMenu(ScrolledFrame):
                 self.scroll_to_label(lyric_label)
             else:
                 lyric_label._label.config(bootstyle=LIGHT, font=(FONT_BOLD, self.font_size))
+
 
     def scroll_to_label(self, label_to_scroll):
         total_height = 0
