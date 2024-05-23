@@ -89,6 +89,3 @@ def fetch_lrc(song_name:str, artist:str, allow_plain_format=False):
 
 def fetch_parsed_lyrics(song_name:str, artist:str, allow_plain_format=False):
     return parse_lrc(fetch_lrc(song_name=song_name, artist=artist, allow_plain_format=allow_plain_format))
-
-def ad_lyrics():
-    return [(timedelta(milliseconds=0), "A Spotify ad is playing"), (timedelta(days=10**3), " ")]
