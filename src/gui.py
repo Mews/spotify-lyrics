@@ -34,7 +34,9 @@ class MainUi(ttk.Window):
         self.top_menu.pack(side=TOP, fill=BOTH, expand=YES)
         
         self.bottom_menu = BottomMenu(master=self, bootstyle=SECONDARY)
-        self.bottom_menu.pack(side=TOP, fill=X)
+        self.bottom_menu.pack(side=BOTTOM, fill=X)
+
+        self.pack_propagate(False)
 
         self.spotify = create_spotify_client()
         raw_data = self.spotify.currently_playing()
