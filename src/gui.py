@@ -11,7 +11,7 @@ import traceback
 from wraplabel import WrapLabel
 from song import Song, NoSongFound
 from loadfont import loadfont
-from lyrics import get_timestamp_lyric, fetch_parsed_lyrics, ad_lyrics
+from lyrics import get_timestamp_lyric, fetch_parsed_lyrics
 from spotify_client import create_spotify_client
 
 FONT = "Circular Std Book"
@@ -61,6 +61,8 @@ class MainUi(ttk.Window):
         self.previous_lyric_index = None
 
         self.bottom_menu.song_label.update_song(self.current_song)
+
+        self.top_menu.display_message("Fetching the lyrics for this song...")
 
         if self.current_song.type == "track":
             self.lyrics = fetch_parsed_lyrics(song_name=self.current_song.name,
@@ -128,10 +130,10 @@ class TopMenu(ttk.Frame):
 
 
     def update_lyric_labels(self, lyrics):
+        self.lyrics_menu.update_lyric_labels(lyrics=lyrics)
+        
         self.messages_menu.pack_forget()
         self.lyrics_menu.pack(expand=YES, fill=BOTH)
-
-        self.lyrics_menu.update_lyric_labels(lyrics=lyrics)
 
         self.bind_all("<Control-MouseWheel>", self.lyrics_menu.on_control_scroll)
     
