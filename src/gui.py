@@ -18,6 +18,9 @@ FONT = "Circular Std Book"
 FONT_BOLD = "Circular Std Bold"
 FONT_LIGHT = "Circular Std Light"
 
+MIN_FONT_SIZE = 6
+MAX_FONT_SIZE = 75
+
 class MainUi(ttk.Window):
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -168,7 +171,7 @@ class MessagesMenu(ttk.Frame):
         if delta < 0:
             self.font_size -= 2
         
-        self.font_size = max(6, self.font_size)
+        self.font_size = min(MAX_FONT_SIZE, max(MIN_FONT_SIZE, self.font_size))
 
         self.label._label.config(font=(FONT_BOLD, int(self.font_size*1.5)))
         
@@ -236,7 +239,7 @@ class LyricsMenu(ScrolledFrame):
         if delta < 0:
             self.font_size -= 2
         
-        self.font_size = max(6, self.font_size)
+        self.font_size = min(MAX_FONT_SIZE, max(MIN_FONT_SIZE, self.font_size))
 
         #Update all the lyric labels
         for lyric_label in self.lyric_labels:
