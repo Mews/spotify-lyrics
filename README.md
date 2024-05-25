@@ -42,6 +42,7 @@ You can then also change the app's theme by editing the `theme` variable in the 
 | 0.3.0   | Updated lrc parser
 | 0.4.0     (not usable)   | Fixed issue with window stuttering when moving it around
 | 0.4.1   | Major bug fix
+| 0.5.0   | Added message to let the user know when the app is fetching lyrics; <br> Added option to replace empty lyrics with custom text; <br> Bug fixes
 
 
 ## Libraries used
