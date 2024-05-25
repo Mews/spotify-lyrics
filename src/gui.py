@@ -234,6 +234,8 @@ class LyricsMenu(ScrolledFrame):
         self.yview_moveto(height_to_scroll/total_height)
 
     def on_control_scroll(self, event):
+        self.disable_scrolling()
+
         delta = event.delta
         
         if delta > 0:
@@ -246,9 +248,17 @@ class LyricsMenu(ScrolledFrame):
         #Update all the lyric labels
         for lyric_label in self.lyric_labels:
             if lyric_label.index == self.highlighted_lyric_index:
+                hightlighted_lyric_label = lyric_label
                 lyric_label._label.config(font=(FONT_BOLD, int(self.font_size*1.5)))
             else:
                 lyric_label._label.config(font=(FONT_BOLD, self.font_size))
+        
+        self.enable_scrolling()
+
+        self.update_idletasks()
+        self.update()
+
+        self.scroll_to_label(hightlighted_lyric_label)
 
 class LyricLabel(ttk.Frame):
     def __init__(self, master, index, lyric, *args, **kwargs):
