@@ -160,6 +160,8 @@ class MessagesMenu(ttk.Frame):
 
         self.label = LyricLabel(master=self, index=-1, lyric="", anchor=CENTER, justify=CENTER, bootstyle=DEFAULT, font=(FONT_BOLD, int(self.font_size*1.5)))
         self.label.pack(side=TOP, fill=BOTH, expand=YES, padx=200)
+
+        self.pack_propagate(False)
     
     def display_message(self, message):
         self.label._label.config(text=message)
