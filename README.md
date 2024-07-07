@@ -16,10 +16,12 @@ Then, open the `settings.ini` file and write your client id as such
 [spotify]
 client_id = <your client id>
 redirect_uri = http://localhost:8888/callback
+client_secret = 
 ```
 After that, just open the `spotify lyrics.exe` file!
 
-*Some antivirus programs might flag the app as a virus. This is only because the app is not signed, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.*
+> [!NOTE]
+> Some antivirus programs might flag the app as a virus. This is only because the app is not signed, but, if you're suspicious, you can look at the [source code](https://github.com/Mews/spotify-lyrics/tree/main/src) and run the `main.py` file directly, or compile the executable yourself.
 
 ---
 
@@ -43,6 +45,7 @@ You can then also change the app's theme by editing the `theme` variable in the 
 | 0.4.0     (not usable)   | Fixed issue with window stuttering when moving it around
 | 0.4.1   | Major bug fix
 | 0.5.0   | Added message to let the user know when the app is fetching lyrics; <br> Added option to replace empty lyrics with custom text; <br> Bug fixes
+| 0.6.0   | Added option to authenticate using client secret (See [#2](https://github.com/Mews/spotify-lyrics/issues/2))
 
 
 ## Libraries used
