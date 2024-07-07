@@ -1,6 +1,6 @@
 .syncedlyrics
 .cache
-src/__pycache__
+**/__pycache__
 build
 dist
 _internal
