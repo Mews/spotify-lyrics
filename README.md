@@ -33,7 +33,7 @@ You can then also change the app's theme by editing the `theme` variable in the 
     theme = solar
 
 
-**If you have any issues using the app, you can also [open an issue](https://github.com/Mews/spotify-lyrics/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)**
+**If you have any issues using the app, you can also check the [FAQ page](FAQ.md), [open an issue](https://github.com/Mews/spotify-lyrics/issues/new) or contact me through [my discord!](https://discord.com/users/467268976523739157)**
 
 ## Changelog
 
