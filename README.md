@@ -1,7 +1,7 @@
 
 # Spotify Lyrics
 
-![Logo](https://i.ibb.co/VYfTNT5/banner-transparent.png)
+![Logo](assets/banner.png)
 
 **An app that connects to your spotify to show you the lyrics to the song you're listening to live.**\
 **No premium required!**
