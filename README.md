@@ -6,6 +6,11 @@
 **An app that connects to your spotify to show you the lyrics to the song you're listening to live.**\
 **No premium required!**
 
+> [!WARNING]
+> As of March 9, 2026, you can no longer get a spotify api key without a premium account (see [this blog post](https://developer.spotify.com/blog/2026-02-06-update-on-developer-access-and-platform-security) for more info)
+> <br>Sadly, this means you also won't be able to use spotify-lyrics without premium.
+> <br>There is currently no know workaround for this.
+
 ## Usage
 ***To be able to use the app, you will first need to provide a client id to connect to the spotify api.***\
 ***You can find how to get yours [here](TUTORIAL.md).***
